@@ -1,0 +1,1 @@
+draw_sprite_ext(blackPixel_for_transitions_spr, 0, 0, 0, 1920, 1080, 0, c_white, image_alpha);

@@ -1,0 +1,2 @@
+textList = ds_list_create();
+ds_list_add(textList, "Guten Tag Herr Freeman!", "Wir haben Sie bereits erwartet...", "Ihr Zimmer ist gerade fertig geworden.", "Hier sind die Schluessel.", "Zimmer 209", "Geniessen Sie Ihren Aufenthalt.", "Zimmer 209 ist oben, die Treppe rauf!");
