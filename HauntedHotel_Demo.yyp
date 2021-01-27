@@ -59,6 +59,7 @@
     {"id":{"name":"ext_light_attenuation_reset","path":"scripts/ext_light_attenuation_reset/ext_light_attenuation_reset.yy",},"order":2,},
     {"id":{"name":"ext_light_attenuation_apply","path":"scripts/ext_light_attenuation_apply/ext_light_attenuation_apply.yy",},"order":0,},
     {"id":{"name":"Wood_Walls_Floor_1","path":"tilesets/Wood_Walls_Floor_1/Wood_Walls_Floor_1.yy",},"order":3,},
+    {"id":{"name":"floor1","path":"rooms/floor1/floor1.yy",},"order":3,},
     {"id":{"name":"Tresen_seite","path":"sprites/Tresen_seite/Tresen_seite.yy",},"order":12,},
     {"id":{"name":"Tuer_Oben","path":"sprites/Tuer_Oben/Tuer_Oben.yy",},"order":14,},
     {"id":{"name":"lighting_get_active_camera","path":"scripts/lighting_get_active_camera/lighting_get_active_camera.yy",},"order":2,},
@@ -163,6 +164,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Lobby","path":"rooms/Lobby/Lobby.yy",},},
+    {"roomId":{"name":"floor1","path":"rooms/floor1/floor1.yy",},},
     {"roomId":{"name":"Office","path":"rooms/Office/Office.yy",},},
   ],
   "Folders": [
