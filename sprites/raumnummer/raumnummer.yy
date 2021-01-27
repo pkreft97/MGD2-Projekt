@@ -26,7 +26,6 @@
   "frames": [
     {"compositeImage":{"FrameId":{"name":"98ffbf90-ee97-42ad-b772-dd76b6f284d6","path":"sprites/raumnummer/raumnummer.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"98ffbf90-ee97-42ad-b772-dd76b6f284d6","path":"sprites/raumnummer/raumnummer.yy",},"LayerId":{"name":"bf761a25-8ba2-4045-9454-2c43e5b50d1d","path":"sprites/raumnummer/raumnummer.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"98ffbf90-ee97-42ad-b772-dd76b6f284d6","path":"sprites/raumnummer/raumnummer.yy",},"LayerId":{"name":"0bd2ab33-50f7-40ce-b495-31d6d42f9d8f","path":"sprites/raumnummer/raumnummer.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"98ffbf90-ee97-42ad-b772-dd76b6f284d6","path":"sprites/raumnummer/raumnummer.yy",},"LayerId":{"name":"0cef37d0-7244-41da-aade-e26690e2ccec","path":"sprites/raumnummer/raumnummer.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"raumnummer","path":"sprites/raumnummer/raumnummer.yy",},"resourceVersion":"1.0","name":"98ffbf90-ee97-42ad-b772-dd76b6f284d6","tags":[],"resourceType":"GMSpriteFrame",},
   ],

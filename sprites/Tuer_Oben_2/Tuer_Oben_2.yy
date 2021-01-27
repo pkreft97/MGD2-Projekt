@@ -25,8 +25,8 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"2f82a94f-7683-4f95-bf46-c1b920f7b1b3","path":"sprites/Tuer_Oben_2/Tuer_Oben_2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2f82a94f-7683-4f95-bf46-c1b920f7b1b3","path":"sprites/Tuer_Oben_2/Tuer_Oben_2.yy",},"LayerId":{"name":"bf761a25-8ba2-4045-9454-2c43e5b50d1d","path":"sprites/Tuer_Oben_2/Tuer_Oben_2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"2f82a94f-7683-4f95-bf46-c1b920f7b1b3","path":"sprites/Tuer_Oben_2/Tuer_Oben_2.yy",},"LayerId":{"name":"0bd2ab33-50f7-40ce-b495-31d6d42f9d8f","path":"sprites/Tuer_Oben_2/Tuer_Oben_2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"2f82a94f-7683-4f95-bf46-c1b920f7b1b3","path":"sprites/Tuer_Oben_2/Tuer_Oben_2.yy",},"LayerId":{"name":"bf761a25-8ba2-4045-9454-2c43e5b50d1d","path":"sprites/Tuer_Oben_2/Tuer_Oben_2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Tuer_Oben_2","path":"sprites/Tuer_Oben_2/Tuer_Oben_2.yy",},"resourceVersion":"1.0","name":"2f82a94f-7683-4f95-bf46-c1b920f7b1b3","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
