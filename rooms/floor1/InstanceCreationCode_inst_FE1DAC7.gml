@@ -1,4 +1,4 @@
-targetRoom = Office;
-targetX = 1311;
-targetY = 1460;
+targetRoom = Lobby;
+targetX = 260;
+targetY = 1300;
 doorLocation = playerUp_spr; //Gibt an, wohin der Spieler gucken soll (wo 

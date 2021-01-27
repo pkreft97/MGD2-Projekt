@@ -61,7 +61,7 @@
     {"id":{"name":"Wood_Walls_Floor_1","path":"tilesets/Wood_Walls_Floor_1/Wood_Walls_Floor_1.yy",},"order":3,},
     {"id":{"name":"floor1","path":"rooms/floor1/floor1.yy",},"order":3,},
     {"id":{"name":"Tresen_seite","path":"sprites/Tresen_seite/Tresen_seite.yy",},"order":12,},
-    {"id":{"name":"Tuer_Oben","path":"sprites/Tuer_Oben/Tuer_Oben.yy",},"order":14,},
+    {"id":{"name":"raumnummer","path":"sprites/raumnummer/raumnummer.yy",},"order":14,},
     {"id":{"name":"lighting_get_active_camera","path":"scripts/lighting_get_active_camera/lighting_get_active_camera.yy",},"order":2,},
     {"id":{"name":"sh_blend_light","path":"shaders/sh_blend_light/sh_blend_light.yy",},"order":0,},
     {"id":{"name":"Lampe_2","path":"sprites/Lampe_2/Lampe_2.yy",},"order":29,},
