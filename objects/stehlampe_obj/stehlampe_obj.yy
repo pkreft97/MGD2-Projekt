@@ -31,7 +31,7 @@
     "path": "folders/Objects/Light Objects in Game.yy",
   },
   "resourceVersion": "1.0",
-  "name": "lobbyLight1_obj",
+  "name": "stehlampe_obj",
   "tags": [],
   "resourceType": "GMObject",
 }

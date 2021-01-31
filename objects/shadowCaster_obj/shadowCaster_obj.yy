@@ -29,8 +29,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Light Objects in Game",
-    "path": "folders/Objects/Light Objects in Game.yy",
+    "name": "Lighting Engine",
+    "path": "folders/Objects/Lighting Engine.yy",
   },
   "resourceVersion": "1.0",
   "name": "shadowCaster_obj",

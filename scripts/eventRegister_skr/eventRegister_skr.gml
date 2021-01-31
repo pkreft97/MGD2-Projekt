@@ -4,7 +4,7 @@
 ///@arg arg1...*
 
 with(eventManager_obj){
-	var ev = argument[0]; //Speichert das erste Argument dieser  Funktion in "ev"
+	var ev = argument[0]; //Speichert das erste Argument dieser Funktion in "ev"
 	var objID = argument[1];
 	
 	if(!ds_map_exists(eventMap, ev)){
