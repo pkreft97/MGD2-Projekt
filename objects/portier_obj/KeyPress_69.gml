@@ -6,10 +6,16 @@ if (point_in_circle(player_obj.x, player_obj.y, x, y, 200) && !instance_exists(t
 		textLength = string_length(text);
 	}
 	
-	if(ds_list_size(textList) == 3)
+	
+	if(ds_list_size(textList) == 4)
 	{
-		script_execute(gettingKeyToPersonalRoom_script);
+		audio_play_sound(gettinKeys, 10, false);
+		with(player_obj)
+		{
+			ds_list_add(inventar, "Key_to_personal_room");
+		}
 	}
+	
 	
 	if(ds_list_size(textList) > 1)
 	{

@@ -5,7 +5,10 @@
   },
   "solid": false,
   "visible": false,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "transition_spr",
+    "path": "sprites/transition_spr/transition_spr.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
@@ -21,8 +24,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"transitionTrigger_obj","path":"objects/transitionTrigger_obj/transitionTrigger_obj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"player_obj","path":"objects/player_obj/player_obj.yy",},"parent":{"name":"transitionTrigger_obj","path":"objects/transitionTrigger_obj/transitionTrigger_obj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"lockedDoorTrigger_obj","path":"objects/lockedDoorTrigger_obj/lockedDoorTrigger_obj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"player_obj","path":"objects/player_obj/player_obj.yy",},"parent":{"name":"lockedDoorTrigger_obj","path":"objects/lockedDoorTrigger_obj/lockedDoorTrigger_obj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +34,7 @@
     "path": "folders/Objects/Transitions to other rooms.yy",
   },
   "resourceVersion": "1.0",
-  "name": "transitionTrigger_obj",
+  "name": "lockedDoorTrigger_obj",
   "tags": [],
   "resourceType": "GMObject",
 }

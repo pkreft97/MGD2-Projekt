@@ -17,7 +17,7 @@ if(state == fade_in)
 
 else if(state == fade_out)
 {
-	if(!instance_exists(camera_obj)) instance_create_depth(player_obj.x,player_obj.y, -400, camera_obj);
+	if(!instance_exists(camera_obj)) instance_create_depth(player_obj.x,player_obj.y, -600, camera_obj);
 	//if(!instance_exists(flashlightLight_obj)) instance_create_depth(player_obj.x,player_obj.y, 304, flashlightLight_obj);
 	
 	image_alpha -= fade_out_speed;

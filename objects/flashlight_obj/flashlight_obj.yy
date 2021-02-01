@@ -4,7 +4,7 @@
     "path": "sprites/flashlight_spr/flashlight_spr.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "spriteMaskId": null,
   "persistent": true,
   "parentObjectId": null,
