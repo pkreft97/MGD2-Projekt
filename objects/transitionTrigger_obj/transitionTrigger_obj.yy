@@ -4,7 +4,7 @@
     "path": "sprites/transition_spr/transition_spr.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
