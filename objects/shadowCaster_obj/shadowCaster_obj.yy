@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "schrank_spr",
-    "path": "sprites/schrank_spr/schrank_spr.yy",
+    "name": "",
+    "path": "",
   },
   "solid": false,
   "visible": true,
